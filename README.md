@@ -1,2 +1,2 @@
-# minicurso
+# Minicurso
 minicursocatalisa
